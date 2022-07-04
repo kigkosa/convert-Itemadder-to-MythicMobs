@@ -6,4 +6,4 @@ Free! by <a href="https://www.facebook.com/HelloWorldCH">HelloWorld</a>
 3. เปิดไฟล์ run.py ขึ้นมาแก้ <br>
     `file_name = '<ชื่อที่ต้องการ>'`
 4. กดรันไฟล์ มันก็จะเจนไฟล์ออกมาเอาไว้ใช้กับ MythicMobs ไอเทมได้
-<font color="red">This is some text!</font>
+<p style='color:red'>This is some red text.</p>
