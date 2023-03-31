@@ -1,0 +1,1 @@
+pyinstaller.exe --icon=icon.png -F --noconsole window.py --name "ia to mm"
